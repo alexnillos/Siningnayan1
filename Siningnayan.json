@@ -704,19 +704,814 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Silkscreen-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "BG 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BG 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BG2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BG2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Green substance floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Green substance floor.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/56661294f4b698b56db19d2fc43565f275c1f66f6d350fe873a1b33f6f98838b_tiled_Green substance floor.png",
+          "name": "tiled_Green substance floor.png"
+        }
+      },
+      {
+        "file": "Pixelated Paintings/12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/PixelTrail.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PixelTrail.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/ef6aa63d5cdf5ce14f88668e4d55a67a0051bc54e48e592fd3abbfed7e104b79_PixelTrail.png",
+          "name": "PixelTrail.png"
+        }
+      },
+      {
+        "file": "Pixelated Paintings/17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\20.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Elias",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": true,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Walk (Right)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crouch",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Crouch.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "Painting_Glow",
+      "rightMargin": 0,
+      "texture": "GLOW.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Elias"
+      },
+      {
+        "objectName": "Painting_Glow"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/prekolonyal-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/kolonyal-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/modern-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mt-mayon"
     }
   ],
   "externalEvents": [],
