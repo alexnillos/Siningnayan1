@@ -15,7 +15,7 @@
     "packageName": "com.example.gamename",
     "pixelsRounding": false,
     "projectUuid": "e7389069-17d0-4c00-92a5-8ae0ae4ee01b",
-    "scaleMode": "linear",
+    "scaleMode": "nearest",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
@@ -81,6 +81,7 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
+      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -100,22 +101,1447 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floor sprite.JPG",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor sprite.JPG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Gameplay BG.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gameplay BG.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Gameplay BG2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gameplay BG2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "asdsa.JPG",
+        "kind": "image",
+        "metadata": "",
+        "name": "asdsa.JPG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Damaged wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Damaged wall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Tiles/af8cf182db571426d642945d406cfbf1b14fe1486501b8b09c851ce1006b67dd_tiled_Damaged wall.png",
+          "name": "tiled_Damaged wall.png"
+        }
+      },
+      {
+        "file": "assets/tiled_industrial platform center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_industrial platform center.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/ca47e97bdd8bab0411d72164191dd8406065208ed50ade5597e76964abdeb101_tiled_industrial platform center.png",
+          "name": "tiled_industrial platform center.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Alternative castle wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Alternative castle wall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/ef065b13da87bf525842e82bb5fc013fa296384b8a4d768e1e0423b7bdf780f6_tiled_Alternative castle wall.png",
+          "name": "tiled_Alternative castle wall.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/821a1cde78a58eae605bc09ebb4b3d91b1d1bda569cea742ff74470a0068dc2e_tiled_Brick3.png",
+          "name": "tiled_Brick3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tileset Piece 12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tileset Piece 12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/4ce9f1062333db885fa4e5d0c20c5bccbca489f706fcc5e38c8a96d8c1f205c0_tiled_Tileset Piece 12.png",
+          "name": "tiled_Tileset Piece 12.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Yellow Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Yellow Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/ce88574dd505d38616653e11635bd31d1c9b35296a2aac8e8225ae88bfe47c41_tiled_Yellow Background.png",
+          "name": "tiled_Yellow Background.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Gray Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Gray Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/e4143984855b3f2809a2a27ebfdf1ba854f1bf5248b74cc117ed4002cbe0e5d9_tiled_Gray Background.png",
+          "name": "tiled_Gray Background.png"
+        }
+      },
+      {
+        "file": "Untitled design (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "flooorr.JPG",
+        "kind": "image",
+        "metadata": "",
+        "name": "flooorr.JPG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Walk/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Walk\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IDLE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IDLE2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Crouch.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Crouch.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/c693a024a868728da3e9e91c9d23513306582bda6ba10191afc24d6c5667dd5e_Explosion3.png",
+          "name": "Explosion3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tiled Left Wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Left Wall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/e63a3e5a5b481e0f20350ec05891f05c4ef574f916f80adb29e34e4699eb5454_tiled_Tiled Left Wall.png",
+          "name": "tiled_Tiled Left Wall.png"
+        }
+      },
+      {
+        "file": "archh.JPG",
+        "kind": "image",
+        "metadata": "",
+        "name": "archh.JPG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Tiled Full Wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Full Wall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/9ee2b85299efca63aa050e8aa6ab9c71cb87e8d869adb449a3ba5165cc0b0bb7_tiled_Tiled Full Wall.png",
+          "name": "tiled_Tiled Full Wall.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tiled Flooring.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Flooring.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_tiled_Tiled Flooring.png",
+          "name": "tiled_Tiled Flooring.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brown background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brown background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Backgrounds/4301a40f507e51d964f68121478aa525ca2acf8a65fb135fd9efa0dbacf96cf9_tiled_Brown background.png",
+          "name": "tiled_Brown background.png"
+        }
+      },
+      {
+        "file": "assets/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_black space.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "name": "tiled_black space.png"
+        }
+      },
+      {
+        "file": "mayon volcano painting.JPG",
+        "kind": "image",
+        "metadata": "",
+        "name": "mayon volcano painting.JPG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Red BG.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red BG.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (1)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (1)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled design (1)3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design (1)3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Tile 3 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 3 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/139f3b36f1420a4639943066a9d8d6a0229d18b0f29c00368da47d61c9b7993b_tiled_Tile 3 tiled sprite.png",
+          "name": "tiled_Tile 3 tiled sprite.png"
+        }
+      },
+      {
+        "file": "GLOW.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GLOW.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Mini Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Silkscreen-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "BG 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BG 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BG2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BG2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Green substance floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Green substance floor.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/56661294f4b698b56db19d2fc43565f275c1f66f6d350fe873a1b33f6f98838b_tiled_Green substance floor.png",
+          "name": "tiled_Green substance floor.png"
+        }
+      },
+      {
+        "file": "Pixelated Paintings/12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/PixelTrail.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PixelTrail.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/ef6aa63d5cdf5ce14f88668e4d55a67a0051bc54e48e592fd3abbfed7e104b79_PixelTrail.png",
+          "name": "PixelTrail.png"
+        }
+      },
+      {
+        "file": "Pixelated Paintings/17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixelated Paintings/20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\20.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Elias",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": true,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Walk (Right)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Walk\\8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crouch",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Crouch.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 589.5,
+                        "y": 277.5
+                      },
+                      {
+                        "x": 1014,
+                        "y": 268.5
+                      },
+                      {
+                        "x": 946.5,
+                        "y": 1157.5
+                      },
+                      {
+                        "x": 552.5,
+                        "y": 1111.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 663.5,
+                        "y": 303.5
+                      },
+                      {
+                        "x": 994.5,
+                        "y": 288.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 1142
+                      },
+                      {
+                        "x": 569.5,
+                        "y": 1133.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "Painting_Glow",
+      "rightMargin": 0,
+      "texture": "GLOW.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
+      "height": 256,
+      "name": "Edge_Trigger",
+      "texture": "tiled_black space.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 256,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Elias"
+      },
+      {
+        "objectName": "Painting_Glow"
+      },
+      {
+        "objectName": "Edge_Trigger"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/prologue-sample-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/prekolonyal-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/kolonyal-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/modern-walk-through"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mt-mayon"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/ending-sample-scene"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/drawpathfinding"
+    }
+  ],
   "externalLayouts": []
 }

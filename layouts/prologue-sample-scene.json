@@ -1,120 +1,20 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Untitled_32scene",
-  "name": "Untitled scene",
+  "mangledName": "Prologue_32sample_32scene",
+  "name": "Prologue sample scene",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
   "v": 209,
-  "uiSettings": {
-    "grid": false,
-    "gridType": "rectangular",
-    "gridWidth": 32,
-    "gridHeight": 32,
-    "gridDepth": 32,
-    "gridOffsetX": 0,
-    "gridOffsetY": 0,
-    "gridOffsetZ": 0,
-    "gridColor": 10401023,
-    "gridAlpha": 0.8,
-    "snap": false,
-    "zoomFactor": 0.3645833333333333,
-    "windowMask": false,
-    "selectedLayer": ""
-  },
+  "uiSettings": {},
   "objectsGroups": [],
   "variables": [],
-  "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 714,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewSprite",
-      "persistentUuid": "2f7109df-61fa-4644-aa28-4377b507539c",
-      "width": 733,
-      "x": 1234,
-      "y": 301,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    }
-  ],
-  "objects": [
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 13
-                      },
-                      {
-                        "x": 47,
-                        "y": 13
-                      },
-                      {
-                        "x": 47,
-                        "y": 51
-                      },
-                      {
-                        "x": 12,
-                        "y": 51
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "instances": [],
+  "objects": [],
   "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "NewSprite"
-      }
-    ]
+    "folderName": "__ROOT"
   },
   "events": [],
   "layers": [
@@ -200,6 +100,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
     },
     {
       "name": "Resizable",
